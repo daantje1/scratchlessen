@@ -1,19 +1,23 @@
-# download scratch.
+# Scratch zonder browser
 
-download adobe air met deze link
+Steppen:
 
-voor mac http://airdownload.adobe.com/air/mac/download/2.6/AdobeAIR.zip
+ 1. Download Adobe Air
+ 2. Download Scratch
 
-voor windows http://get.adobe.com/air/
+## 1. Download Adobe Air
 
-voor linux http://airdownload.adobe.com/air/lin/download/2.6/AdobeAIRInstaller.bin
+Download adobe air met deze link
 
-en dan download je scratch met deze link
+ * voor mac http://airdownload.adobe.com/air/mac/download/2.6/AdobeAIR.zip
+ * voor windows http://get.adobe.com/air/
+ * voor Linux: 
+   * 64 bit: ga naar https://helpx.adobe.com/air/kb/install-air-2-64-bit.html 
 
-voor mac https://scratch.mit.edu/scratchr2/static/sa/Scratch-454.dmg
+## 2. Download Scratch
 
-voor windows https://scratch.mit.edu/scratchr2/static/sa/Scratch-454.exe
-
-voor linux https://scratch.mit.edu/scratchr2/static/sa/Scratch-454.air
+ * voor mac https://scratch.mit.edu/scratchr2/static/sa/Scratch-454.dmg
+ * voor windows https://scratch.mit.edu/scratchr2/static/sa/Scratch-454.exe
+ * voor linux https://scratch.mit.edu/scratchr2/static/sa/Scratch-454.air
 
 instaleer het programma en het is klaar!
